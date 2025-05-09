@@ -1,6 +1,7 @@
 package com.fooroduce.backend.Membership.Dto;
 
 
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
