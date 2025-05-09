@@ -1,4 +1,4 @@
-package com.fooroduce.backend.Membership.util;
+package com.fooroduce.backend.util;
 
 import java.util.Date;
 import io.jsonwebtoken.Jwts;

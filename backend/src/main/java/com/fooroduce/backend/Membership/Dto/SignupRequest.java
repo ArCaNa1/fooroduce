@@ -1,4 +1,4 @@
-package com.fooroduce.backend.Membership.dto;
+package com.fooroduce.backend.Membership.Dto;
 
 
 import lombok.AllArgsConstructor;

@@ -1,14 +1,15 @@
-package com.fooroduce.backend.Membership.dto;
+package com.fooroduce.backend.Membership.Dto;
+
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 @Getter
 @AllArgsConstructor
-public class LoginResponse {
+public class SignupResponse {
 
     private String user_id;
-    private String token;
+    private String email;
     private String role;
 
 }

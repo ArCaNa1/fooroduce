@@ -1,4 +1,4 @@
-package com.fooroduce.backend.Membership.util;
+package com.fooroduce.backend.util;
 
 
 import at.favre.lib.crypto.bcrypt.BCrypt;

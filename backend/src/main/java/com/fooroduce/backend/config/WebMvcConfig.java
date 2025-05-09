@@ -1,6 +1,6 @@
-package com.fooroduce.backend.Membership.config;
+package com.fooroduce.backend.config;
 
-import com.fooroduce.backend.Membership.util.JwtAuthFilter;
+import com.fooroduce.backend.util.JwtAuthFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
