@@ -13,7 +13,7 @@ public class Vote {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer vote_id;
+    private Integer voteId;
 
     @ManyToOne
     @JoinColumn(name = "event_id")
